@@ -1,0 +1,225 @@
+[
+  {
+    "watchId": "YTIH9879N",
+    "watchName": "Royal Oak",
+    "watchDescription": "Nice watch, great design...",
+    "watchImage": {
+      "default": "https://via.placeholder.com/300x380",
+      "orginal": "https://via.placeholder.com/4000x5066"
+    },
+    "watchColors": [
+      {
+        "colorName": "Red",
+        "colorCode": "#FFFFFF"
+      },
+      {
+        "colorName": "Grey",
+        "colorCode": "#A19A91"
+      }
+    ],
+    "watchMaterials": [
+      {
+        "materialName": "Steel"
+      },
+      {
+        "materialName": "Leather"
+      }
+    ],
+    "watchCategory": [
+      {
+        "categoryName": "Classic"
+      },
+      {
+        "categoryName": "Skeleton"
+      }
+    ],
+    "watchCollection": "Submariner",
+    "watchPrice": "5000",
+    "watchRate": "4,25"
+  },
+  {
+    "watchId": "YBRH8720L",
+    "watchName": "Master Reverso",
+    "watchDescription": "Nice watch, great design...",
+    "watchImage": {
+      "default": "https://via.placeholder.com/300x380",
+      "orginal": "https://via.placeholder.com/4000x5066"
+    },
+    "watchColors": [
+      {
+        "colorName": "Brown",
+        "colorCode": "#A67455"
+      },
+      {
+        "colorName": "White",
+        "colorCode": "#ffffff"
+      }
+    ],
+    "watchMaterials": [
+      {
+        "materialName": "Steel"
+      },
+      {
+        "materialName": "Silicon"
+      }
+    ],
+    "watchCategory": [
+      {
+        "categoryName": "Sport"
+      },
+      {
+        "categoryName": "Skeleton"
+      }
+    ],
+    "watchCollection": "Reverso",
+    "watchPrice": "1000",
+    "watchRate": "4,25"
+  },
+  {
+    "watchId": "BSQT1028X",
+    "watchName": "Master Tourbillon",
+    "watchDescription": "Nice watch, great design, elegant...",
+    "watchImage": {
+      "default": "https://via.placeholder.com/300x380",
+      "orginal": "https://via.placeholder.com/4000x5066"
+    },
+    "watchColors": [
+      {
+        "colorName": "Gold",
+        "colorCode": "#D6C563"
+      },
+      {
+        "colorName": "White",
+        "colorCode": "#ffffff"
+      },
+      {
+        "colorName": "Grey",
+        "colorCode": "#A19A91"
+      }
+    ],
+    "watchMaterials": [
+      {
+        "materialName": "Leather"
+      }
+    ],
+    "watchCategory": [
+      {
+        "categoryName": "Classic"
+      },
+      {
+        "categoryName": "Tourbillon"
+      }
+    ],
+    "watchCollection": "Tourbillon",
+    "watchPrice": "15000",
+    "watchRate": "4,25"
+  },
+  {
+    "watchId": "REYB5560W",
+    "watchName": "Reverso Submariner II",
+    "watchDescription": "Nice watch, great design, elegant...",
+    "watchImage": {
+      "default": "https://via.placeholder.com/300x380",
+      "orginal": "https://via.placeholder.com/4000x5066"
+    },
+    "watchColors": [
+      {
+        "colorName": "Blue",
+        "colorCode": "#4C59C2"
+      },
+      {
+        "colorName": "Black",
+        "colorCode": "#000000"
+      }
+    ],
+    "watchMaterials": [
+      {
+        "materialName": "Steel"
+      }
+    ],
+    "watchCategory": [
+      {
+        "categoryName": "Classic"
+      },
+      {
+        "categoryName": "Sport"
+      }
+    ],
+    "watchCollection": "Submariner",
+    "watchPrice": "8000",
+    "watchRate": "4,25"
+  },
+  {
+    "watchId": "OLKA6120U",
+    "watchName": "Lady Flower",
+    "watchDescription": "Nice watch, great design, elegant...",
+    "watchImage": {
+      "default": "https://via.placeholder.com/300x380",
+      "orginal": "https://via.placeholder.com/4000x5066"
+    },
+    "watchColors": [
+      {
+        "colorName": "Pink",
+        "colorCode": "#D6AEF2"
+      },
+      {
+        "colorName": "Black",
+        "colorCode": "#000000"
+      }
+    ],
+    "watchMaterials": [
+      {
+        "materialName": "Silicon"
+      }
+    ],
+    "watchCategory": [
+      {
+        "categoryName": "Female"
+      },
+      {
+        "categoryName": "Classic"
+      }
+    ],
+    "watchCollection": "Lady",
+    "watchPrice": "18000",
+    "watchRate": "4,25"
+  },
+  {
+    "watchId": "RDAP7710G",
+    "watchName": "Midnight Rendez-vous",
+    "watchDescription": "Nice watch, great design, elegant...",
+    "watchImage": {
+      "default": "https://via.placeholder.com/300x380",
+      "orginal": "https://via.placeholder.com/4000x5066"
+    },
+    "watchColors": [
+      {
+        "colorName": "Blue",
+        "colorCode": "#4C59C2"
+      },
+      {
+        "colorName": "White",
+        "colorCode": "#ffffff"
+      }
+    ],
+    "watchMaterials": [
+      {
+        "materialName": "Steel"
+      },
+      {
+        "materialName": "Leather"
+      }
+    ],
+    "watchCategory": [
+      {
+        "categoryName": "Skeleton"
+      },
+      {
+        "categoryName": "Sport"
+      }
+    ],
+    "watchCollection": "Tourbillon",
+    "watchPrice": "35000",
+    "watchRate": "4,25"
+  }
+]
